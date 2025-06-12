@@ -1,0 +1,86 @@
+#login {
+  
+  background-color: #ebeef0;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  width: 500px;
+  height: 500px;
+  margin: 50px auto;
+}
+
+nav{
+  font-size: 20px;
+  padding: 30px;
+  justify-content: space-between;
+
+}
+
+.loginer input {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  padding: 5px;
+  margin: 32px auto;
+  padding-right: 0px;
+}
+
+#login h2 {
+  font-size: 24px;
+  margin-bottom: 20px;
+  display: flex;
+
+} 
+
+.logintitle {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem;
+
+}
+.logintitle a {
+  color: #000000;
+  text-decoration: none;
+  font-size: 18px;
+}
+
+h1 {
+  font-size: 32px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+h2{
+  float: left;
+}
+button {
+  background-color: #7d40e0;
+  color: white;
+  border-radius: 5px;
+  width: 150px;
+  height: 40px;
+  font-size: 20px;
+  border: none;
+  cursor: pointer;
+  margin: 20px auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+p a {
+  color: #7d40e0;
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+  font-size: 18px;
+  margin-top: 20px;
+  font-weight: bold;
+}
